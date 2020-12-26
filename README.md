@@ -1,2 +1,3 @@
 # testbatch2
-test repo for demo
+euclid.py - GCD using Euclid's method
+
